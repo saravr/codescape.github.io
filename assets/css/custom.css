@@ -39,7 +39,7 @@ header .navbar .navbar-nav .nav-item .nav-link:hover {
 }
 
 .main-banner {
-  background: url(../img/banner-min.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/students-banner.jpeg") no-repeat center center/cover;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 300px 0;
