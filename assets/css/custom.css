@@ -206,6 +206,12 @@ footer .footer-content ul li a:hover {
   background: #5bca7a;
 }
 
+.student-img {
+  width: 630px;
+  height: 361px;
+  object-fit: scale-down;
+}
+
 @media (min-width: 1400px) and (max-width: 1450px) {
   .about-section .about-text {
     margin-top: 25px;

@@ -256,6 +256,12 @@ footer {
     }
 }
 
+.student-img {
+    width: 630px;
+    height: 361px;
+    object-fit: scale-down;
+}
+
 // responsive
 
 @media (min-width: 1400px) and (max-width: 1450px) {
